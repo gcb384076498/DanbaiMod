@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "DanbaiMod",
+    "name": "DanbaiMod",
+    "description": "DanbaiMOD",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Y_ALANG",
+      "Y_YuanZhouLv"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
